@@ -1,2 +1,2 @@
-# Altas-Zapas
-ecomerce en desarrollo.
+# Zapatilleria
+Comienzo de Ecomerce

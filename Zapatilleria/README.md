@@ -1,2 +1,0 @@
-# Zapatilleria
-Comienzo de Ecomerce
