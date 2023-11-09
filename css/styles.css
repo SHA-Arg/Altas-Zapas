@@ -81,7 +81,7 @@
 	--bs-border-radius-2xl: 2rem;
 	--bs-border-radius-pill: 50rem;
 	--bs-link-color: #1abc9c;
-	--bs-link-hover-color: #15967d;
+	--bs-link-hover-color: #ffffff00;
 	--bs-code-color: #d63384;
 	--bs-highlight-bg: #fff3cd;
 }
@@ -11345,10 +11345,10 @@ html {
 	left: 0;
 	transition: all 0.2s ease-in-out;
 	opacity: 0;
-	background-color: rgba(26, 188, 156, 0.9);
+	background-color: #495057;
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
-	opacity: 1;
+	opacity: 0;
 }
 .portfolio
 	.portfolio-item
